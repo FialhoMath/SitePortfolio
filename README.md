@@ -1,6 +1,6 @@
 # Portfolio - Matheus Fialho
 
-Bem-vindo ao meu site de portfólio! Este projeto é composto por **três páginas HTML**, com uso de **CSS** para estilização e uma função simples em **JavaScript**. Abaixo, explico como o projeto está organizado.
+Bem-vindo ao meu site de portfólio! Este projeto é composto por **três páginas HTML**, com uso de **CSS** para estilização e uma função simples em **JavaScript**. Abaixo explico como o projeto está organizado.
 link para o site:  https://fialhomath.github.io/SitePortfolio/
 ---
 
