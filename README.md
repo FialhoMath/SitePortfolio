@@ -1,7 +1,6 @@
 # Portfolio - Matheus Fialho
 
-Bem-vindo ao meu site de portfólio! Este projeto é composto por **três páginas HTML**, com uso de **CSS** para estilização e uma função simples em **JavaScript**. Abaixo, explico como o projeto está organizado e quais tecnologias foram utilizadas.
-
+Bem-vindo ao meu site de portfólio! Este projeto é composto por **três páginas HTML**, com uso de **CSS** para estilização e uma função simples em **JavaScript**. Abaixo, explico como o projeto está organizado.
 ---
 
 ## Organização do Projeto
@@ -34,7 +33,7 @@ Apresenta os cursos concluídos com a imagem de cada certificado:
 
 ---
 
-## Tecnologias Utilizadas
+## Linguagens Utilizadas (Marcação e Programação)
 
 ### HTML5
 - Uso de tags semânticas como `<header>`, `<section>`, `<footer>`, `<h1>–<h3>`, `<ul>`, `<li>`, `<a>`, entre outras
